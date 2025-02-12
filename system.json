@@ -21,5 +21,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
+  "url": "https://github.com/GyngaEditora/cangtrev/",
+  "manifest": "https://github.com/GyngaEditora/cangtrev/releases/download/1.0-12/system.json",
+  "download": "https://github.com/GyngaEditora/cangtrev/archive/refs/tags/cangtrev-1.0-12.zip",
   "license": "LICENSE.txt"
 }
